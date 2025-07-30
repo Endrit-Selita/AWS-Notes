@@ -1,1 +1,65 @@
-# AWS-Notes
+# AWS DevOps Course - Comprehensive Study Notes
+
+A comprehensive collection of beginner-friendly, detailed notes covering all major AWS DevOps concepts and services. These notes are designed for complete beginners with no prior AWS knowledge, using real-world analogies and practical examples.
+
+## 📚 Course Structure
+
+This repository contains detailed study notes for the following AWS DevOps modules:
+
+### ✅ Completed Modules
+
+1. **[Intro to AWS](./01-intro-to-aws.md)**
+   - AWS Overview and history
+   - Market position and use cases
+   - Real-world applications
+
+2. **[IAM (Identity and Access Management)](./02-iam.md)**
+   - Users, Groups, and Policies
+   - MFA and Security Best Practices
+   - Access Keys and CLI configuration
+   - IAM Roles and Permissions
+
+3. **[EC2 & Compute](./03-ec2-compute.md)**
+   - EC2 Instance types and configuration
+   - User Data and Bootstrap scripts
+   - Purchasing options and cost optimization
+   - Hands-on webserver setup
+
+4. **[Security Groups & Cloud Networking Basics](./04-security-groups-networking.md)**
+   - Security Group configuration and rules
+   - Classic ports and protocols
+   - IPv4 vs IPv6
+   - Private vs Public IP addresses
+   - Elastic IPs
+
+5. **[Storage](./05-storage.md)**
+   - EBS (Elastic Block Store) volumes
+   - AMI (Amazon Machine Images)
+   - EFS (Elastic File System)
+
+6. **[Load Balancing & Scalability](./06-load-balancing-scalability.md)**
+   - Application Load Balancer (ALB)
+   - Network Load Balancer (NLB)
+   - Auto Scaling Groups (ASG)
+   - High Availability concepts
+   - SSL/TLS and connection draining
+
+7. **[Containers](./07-containers.md)**
+   - Docker fundamentals
+   - Amazon ECS (Elastic Container Service)
+   - Amazon EKS (Elastic Kubernetes Service)
+   - AWS Fargate
+   - Amazon ECR (Elastic Container Registry)
+
+8. **[Serverless](./08-serverless.md)**
+   - AWS Lambda functions
+   - Serverless architecture patterns
+   - Event-driven computing
+   - Language support and pricing
+   - Real-world serverless examples
+
+### 🚧 Upcoming Modules
+
+9. **AWS Networking** *(Coming Soon)*
+10. **DNS (Route53)** *(Coming Soon)*
+11. **CDN (CloudFront)** *(Coming Soon)*
