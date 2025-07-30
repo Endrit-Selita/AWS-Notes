@@ -32,7 +32,7 @@ This repository contains detailed study notes for the following AWS DevOps modul
    - Private vs Public IP addresses
    - Elastic IPs
 
-5. **[Storage](./05-storage.md)**
+5. **[Storage](https://github.com/Endrit-Selita/AWS-Notes/blob/main/Storage.md)**
    - EBS (Elastic Block Store) volumes
    - AMI (Amazon Machine Images)
    - EFS (Elastic File System)
