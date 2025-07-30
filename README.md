@@ -25,7 +25,7 @@ This repository contains detailed study notes for the following AWS DevOps modul
    - Purchasing options and cost optimization
    - Hands-on webserver setup
 
-4. **[Security Groups & Cloud Networking Basics]()**
+4. **[Security Groups & Cloud Networking Basics](https://github.com/Endrit-Selita/AWS-Notes/blob/main/Security%20Groups%20%26%20Cloud%20Networking%20Basics.md)**
    - Security Group configuration and rules
    - Classic ports and protocols
    - IPv4 vs IPv6
