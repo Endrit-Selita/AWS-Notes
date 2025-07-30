@@ -13,13 +13,13 @@ This repository contains detailed study notes for the following AWS DevOps modul
    - Market position and use cases
    - Real-world applications
 
-2. **[IAM (Identity and Access Management)](./02-iam.md)**
+2. **[IAM (Identity and Access Management)](https://github.com/Endrit-Selita/AWS-Notes/blob/main/IAM%20(Identity%20and%20Access%20Management).md)**
    - Users, Groups, and Policies
    - MFA and Security Best Practices
    - Access Keys and CLI configuration
    - IAM Roles and Permissions
 
-3. **[EC2 & Compute](./03-ec2-compute.md)**
+3. **[EC2 & Compute](https://github.com/Endrit-Selita/AWS-Notes/blob/main/EC2%20%26%20Compute.md)**
    - EC2 Instance types and configuration
    - User Data and Bootstrap scripts
    - Purchasing options and cost optimization
