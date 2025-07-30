@@ -1,4 +1,4 @@
-# AWS DevOps Course - Comprehensive Study Notes
+# AWS DevOps - Comprehensive Study Notes
 
 A comprehensive collection of beginner-friendly, detailed notes covering all major AWS DevOps concepts and services. These notes are designed for complete beginners with no prior AWS knowledge, using real-world analogies and practical examples.
 
