@@ -8,7 +8,7 @@ This repository contains detailed study notes for the following AWS DevOps modul
 
 ### ✅ Completed Modules
 
-1. **[Intro to AWS](./01-intro-to-aws.md)**
+1. **[Intro to AWS](https://github.com/Endrit-Selita/AWS-Notes/blob/main/Intro%20to%20AWS.md)**
    - AWS Overview and history
    - Market position and use cases
    - Real-world applications
@@ -25,7 +25,7 @@ This repository contains detailed study notes for the following AWS DevOps modul
    - Purchasing options and cost optimization
    - Hands-on webserver setup
 
-4. **[Security Groups & Cloud Networking Basics](./04-security-groups-networking.md)**
+4. **[Security Groups & Cloud Networking Basics]()**
    - Security Group configuration and rules
    - Classic ports and protocols
    - IPv4 vs IPv6
