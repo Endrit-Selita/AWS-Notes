@@ -37,7 +37,7 @@ This repository contains detailed study notes for the following AWS DevOps modul
    - AMI (Amazon Machine Images)
    - EFS (Elastic File System)
 
-6. **[Load Balancing & Scalability](./06-load-balancing-scalability.md)**
+6. **[Load Balancing & Scalability](https://github.com/Endrit-Selita/AWS-Notes/blob/main/Load%20Balancing%20%26%20Scalability.md)**
    - Application Load Balancer (ALB)
    - Network Load Balancer (NLB)
    - Auto Scaling Groups (ASG)
