@@ -58,8 +58,6 @@ This repository contains detailed study notes for the following AWS DevOps modul
    - Language support and pricing
    - Real-world serverless examples
 
-### 🚧 Upcoming Modules
-
-9. **AWS Networking** *(Coming Soon)*
+9. **[AWS Networking](https://github.com/Endrit-Selita/AWS-Notes/blob/main/AWS%20Networking.md)**
 10. **DNS (Route53)** *(Coming Soon)*
 11. **CDN (CloudFront)** *(Coming Soon)*
